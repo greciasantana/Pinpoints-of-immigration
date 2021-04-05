@@ -14,5 +14,5 @@ how the pandemic has affected the travel across the border, the purpose of these
 make it to the other side permantly.
 
 ## Figure One
-<img src= "https://raw.githubusercontent.com/greciasantana/Pinpoints-of-immigration/main/Screen%20Shot%202021-04-04%20at%208.11.54%20PM.png">
-Caption: 
+<img src= "https://raw.githubusercontent.com/greciasantana/Pinpoints-of-immigration/main/Screen%20Shot%202021-04-04%20at%208.18.13%20PM.png">
+Caption: Small pie chart of the place of origin people come from when immigrating into the United States unlawfully. 
