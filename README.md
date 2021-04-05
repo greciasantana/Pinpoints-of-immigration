@@ -15,4 +15,4 @@ make it to the other side permantly.
 
 ## Figure One
 <img src= "https://raw.githubusercontent.com/greciasantana/Pinpoints-of-immigration/main/Screen%20Shot%202021-04-04%20at%208.11.54%20PM.png">
-Caption: this is a small figure on the general races that come into the US illigally or as mentioned in the article "unathorized". 
+Caption: 
