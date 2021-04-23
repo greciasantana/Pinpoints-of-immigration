@@ -1,8 +1,6 @@
 # Understanding Immigration 
 
-Statistics on Immigration into the United States. There have been many political and social contraversies surrounding this phenomena and
-wanted to represent the numbers to see the roots of it. Overall, I want people to understand the reasons behind immigration, specifically illegal immigration 
-to limit the number of generalizations of negative viewpoints to immigration. 
+Statistics on Immigration into the United States. Immigration is a huge political phenomena to the United States residents; mostly because of generalization. They mostly tackle on the illigal side of immigration arguing that it is unlawful--which it is no rebuttle there-- but struggle to comprehend the 'why' as well the type of people behind illigal immigration. It is not just adults coming into the United States. There are also children and teens coming alone or with distant family. The general incentive to come into the United States is to start over with a clean slate; to have a better life in the 'Land of Opportunity'. To immigrate one has to go through the legal process and paperwork which takes a long time and money. As a result, there is a substantial amount of people that just skip that step and immigrate illegally. 
 
 
 ## Motivation
@@ -11,6 +9,12 @@ Comming from a family of immigrants, I find it intersting the different points o
 I wanted to analyze all types of immigration data from how many of each race immigrate into the United States, 
 what the purpose of these fmailies and how many of them make it to the other side permantly. I mostly want to compare the negative or disagreement points of view of immigration with datasets on how many and why these people come here. 
 
+### Big Question(s)
+Why
+
 ### Figure One
 <img src= "https://raw.githubusercontent.com/greciasantana/Pinpoints-of-immigration/main/Screen%20Shot%202021-04-04%20at%208.18.13%20PM.png">
 Caption: Small pie chart (created in Excel) of the place of origin people come from when immigrating into the United States unlawfully. 
+
+## Reasons 
+
