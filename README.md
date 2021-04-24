@@ -15,10 +15,19 @@ what the purpose of these fmailies and how many of them make it to the other sid
 
 ### Big Question(s)
 At what age is it optimal for immigrants to come into the United States illegally?
+
 Supplemental questions: 
  - Why do people immigrate illegally?
  - where do people reside in? why? 
 
 
-## Reasons 
+## Reasons of Immigration
+
+I did some external research to get an accurate general idea of why people leave their country of birth and immigrate to the United States. The article [The Most Common Reasons Why People Immigrate to US] (https://sandiegoimmigrationlawcenter.com/the-most-common-reasons-why-people-immigrate-to-us/) gives broad reasons and elaborates them. 
+
+## Data
+
+## Analysis
+
+## Conclusions
 
