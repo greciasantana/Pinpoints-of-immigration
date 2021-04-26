@@ -37,7 +37,7 @@ Most of the time, these families consist of different genders and age groups tha
 
 ## Data Processing
 
-I used kaggle and the google dataset search engine to loook for relevan data that would help me in complething an analysis. There was a lot of data but for the most part it was not very raw. Most of the data was very clean and short; when reading through the external website where the downloadable data was there as either an xlsx or a csv, the data had been processed already. However, When downloeded, there were still some voncersion errors where the formatting of data had to be fixed. 
+I used kaggle and the google dataset search engine to loook for relevant data that would help me in completing an analysis. There was a lot of data but for the most part it was not very raw. Most of the data was very clean and short; when reading through the external website where the downloadable data was there as either an xlsx or a csv, the data had been processed already. However, When downloaded, there were still some conversion errors where the formatting of data had to be fixed. 
 
 ### Extra Sheets 
 
